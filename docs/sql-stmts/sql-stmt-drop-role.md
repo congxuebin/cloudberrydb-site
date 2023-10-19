@@ -4,7 +4,7 @@ title: DROP ROLE
 
 # DROP ROLE
 
-Removes a database role.
+Removes a database role. 
 
 ## Synopsis
 
